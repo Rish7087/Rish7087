@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rish7087
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me rishabhsaini40618@gmail.com
 - 😄 Pronouns: He/Him
